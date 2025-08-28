@@ -39,6 +39,5 @@ Trend Line Chart: Visualizes temperature trends or air quality changes over time
 Icons and Images: Weather condition icons dynamically update based on real-time API data, improving visual appeal and clarity of weather states (e.g., sunny, rainy).
 Last Refreshed Timestamp: Displays the most recent data refresh time to inform users about the currency of the data being viewed.
 
-6. Screenshots / Demos
-Dashboard Preview :
+**6.Dashboard Preview :**
 <img width="1320" height="737" alt="image" src="https://github.com/user-attachments/assets/26eeb23e-ee1d-4603-9ffe-58ebe90748d7" />
