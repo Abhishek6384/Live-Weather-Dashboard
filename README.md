@@ -1,5 +1,3 @@
-# Live-Weather-Dashboard
-Recommended Structure and Order
 **1. Live Weather Dashboard**
 This is a dynamic and interactive data visualization tool designed to explore temperature data across various cities in India. It provides comprehensive weather insights by displaying multiple parameters such as Visibility, Wind Speed, Humidity, and Pressure, allowing users to gain a detailed understanding of weather conditions in different locations.
 
