@@ -1,7 +1,7 @@
 # Live-Weather-Dashboard
 Recommended Structure and Order
 **1. Live Weather Dashboard**
-A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+This is a dynamic and interactive data visualization tool designed to explore temperature data across various cities in India. It provides comprehensive weather insights by displaying multiple parameters such as Visibility, Wind Speed, Humidity, and Pressure, allowing users to gain a detailed understanding of weather conditions in different locations.
 
 **2. Short Description / Purpose**
 Developed a comprehensive Power BI dashboard showcasing real-time weather data for major Indian cities, using an API to extract, transform, and visualize weather and air quality information interactively.
